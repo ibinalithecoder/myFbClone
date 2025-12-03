@@ -1,5 +1,3 @@
-ChatGPT said:
-
 Facebook’s front page (or main feed layout) is built using a multi-column responsive layout, and yes — each column behaves like its own scrollable frame/container.
 Here’s how it works in a simple explanation:
 
